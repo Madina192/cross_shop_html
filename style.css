@@ -1,0 +1,134 @@
+.header{
+    margin-top: 48px;
+    margin-left: 60px;
+    position: relative;
+}
+
+
+
+
+.nav {
+    position: absolute;
+    top: 20px;
+    left: 250px;
+}
+
+
+
+.nav_link {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+    color: black;
+    text-decoration: none;
+    margin-right: 35px;
+}
+
+.header-input {
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    box-sizing: border-box;
+    width: 324px;
+    height: 52px;
+    background: #F6F6F6;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    outline: none;
+    font-style: italic;
+    font-size: 16px;
+    color: black;
+    padding-left: 20px;
+}
+
+.search-box {
+    position: absolute;
+    top: 20px;
+    right: 65px;
+    cursor: pointer;
+}
+
+main {
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.main-box {
+    position: relative;
+}
+
+.left-box {
+    width: 450px;
+    height: 300px;
+}
+
+.left-img {
+    width: 400px;
+}
+
+.left-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.left-btn {
+    width: 224px;
+    height: 51px;
+    background: #FB5014;
+    box-shadow: 0px 5px 7px rgba(251, 80, 20, 0.25);
+    border-radius: 30px;
+    outline: none;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cross-img {
+    width: 575px;
+    height: 383px;
+}
+
+.cross-box {
+    position: absolute;
+    top: -30px;
+    right: 140px;
+}
+
+.right-box {
+    position: absolute;
+    top: 0;
+    right: 40px;
+}
+
+.right-cross-img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 40px;
+}
+
+.mini-cross1 {
+    position: absolute;
+    top: 0;
+    right: 40px;
+}
+
+.mini-cross2 {
+    position: absolute;
+    top: 240px;
+    right: 40px;
+}
+
+.mini-cross-img {
+    width: 70px;
+    height: 50px;
+}
